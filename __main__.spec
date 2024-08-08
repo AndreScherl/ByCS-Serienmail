@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='ByCS Serienmail',
+    name='ByCS-Serienmail',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
